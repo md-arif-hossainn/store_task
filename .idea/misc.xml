@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Practice for Test/StoreDetails/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Practice for Test/StoreDetails/app/src/main/res/layout/design_layout.xml" value="0.22" />
+        <entry key="..\:/Practice for Test/StoreDetails/app/src/main/res/layout/fragment_sdata.xml" value="0.16666666666666666" />
+        <entry key="..\:/Practice for Test/StoreDetails/app/src/main/res/layout/fragment_store.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
